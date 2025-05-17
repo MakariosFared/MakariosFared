@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Makarios Fared</h1>
+<h3 align="center">A passionate flutter developer from Egypt</h3>
+
 # 💫 About Me:
 💬 Ask me about anything<br>📫 How to reach me makarios.fared@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1aEbXA8lFJvzs3qVTPEQfvPJgqy38P4JO/view?usp=drive_link
 
